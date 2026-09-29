@@ -2,7 +2,13 @@ Terms and Conditions for SMS Messaging
 
 Effective Date: September 29, 2026
 
-By opting in to receive SMS/text messages from Aversa’s Flower Shop, Inc, you agree to the following Terms and Conditions.
+By opting in to receive SMS messages from Aversa's Flower Shop, Inc, you agree to receive customer care messages.
+
+Message frequency may vary. On average, 1-2 messages per month.
+Message and data rates may apply.
+You can reply STOP to opt out at any time.
+You can reply HELP for assistance.
+Privacy Policy: https://github.com/jchinchillagoto/aversasflowershopPP
 
 Business Information
 
